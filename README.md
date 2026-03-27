@@ -5,4 +5,4 @@
 Unity를 이용한 게임 개발에 열정적입니다.
 
 ## 🎮 My Games
-- [**TrollMaker**](https://store.steampowered.com/app/4331940/TrollMaker/) - Steam 출시작
+<img src="./LibraryLogo.png" width="32" style="vertical-align: middle;"/> <a href="https://store.steampowered.com/app/4331940/TrollMaker/"><b>TrollMaker</b></a>
