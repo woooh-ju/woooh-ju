@@ -1,7 +1,7 @@
 # 👋 Hello, I'm woooh-ju
 
 ## 🎓 About Me
-홍익대학교 컴퓨터공학과 1학년
+홍익대학교 컴퓨터공학과 1학년  
 Unity를 이용한 게임 개발을 좋아합니다
 
 ## 🎮 My Games
